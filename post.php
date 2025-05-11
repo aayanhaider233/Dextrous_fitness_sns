@@ -102,7 +102,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   <title>Dextrous - Create post</title>
   <link href="css/normalize.css" rel="stylesheet" type="text/css" />
   <link href="css/layout.css" rel="stylesheet" type="text/css" />
-  <link href="css/style.css" rel="stylesheet" type="text/css" />
   <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon" />
   <link href="images/webclip.png" rel="apple-touch-icon" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
